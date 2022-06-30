@@ -17,7 +17,7 @@
       };
 
 
-      appstleLoadScript("https://cdn.shopify.com/s/files/1/0634/7810/4289/t/1/assets/appstle-subscription.js?v=1649928288");
+      appstleLoadScript("https://cdn.shopify.com/s/files/1/0634/7810/4289/t/3/assets/appstle-subscription.js?v=1656575186");
 
       window.RS = Window.RS || {};
       RS.Config = {
@@ -79,12 +79,18 @@
         "widgetEnabledOnSoldVariant": "false",
         "switchRadioButtonWidget": false,
         "appstlePlanName": "FREE",
+        "appstlePlanFeatures": {"subscriptionCount":50,"analytics":true,"enableSubscriptionManagement":false,"enableDunningManagement":false,"enableCustomerPortalSettings":false,"enableShippingProfiles":false,"enableProductSwapAutomation":false,"enableAdvancedSellingPlans":false,"enableSummaryReports":false,"enableCustomEmailDomain":false,"enableWidgetPlacement":false,"enableIntegrations":false,"enableSmsAlert":false,"enableCustomEmailHtml":false,"enableCancellationManagement":false,"enableBundling":false,"enableAutomation":false,"enableQuickActions":false,"enableExternalApi":false,"enableCartWidget":false,"enableAutoSync":false},
         "formMappingAttributeName": "",
         "formMappingAttributeSelector": "",
         "quickViewModalPollingSelector": "",
         "scriptLoadDelay": "0",
         "formatMoneyOverride": "false",
-        "appstle_app_proxy_path_prefix": "apps/subscriptions",
+        "appstle_app_proxy_path_prefix": "apps\/subscriptions",
+        "updatePriceOnQuantityChange": "",
+        "widgetParentSelector": "",
+        "quantitySelector": "",
+        "enableAddJSInterceptor": "false",
+        "reBuyEnabled": "false",
         "css": {
             "appstle_subscription_widget": {
                 "margin-top": "" ,
