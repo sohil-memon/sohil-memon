@@ -17,7 +17,7 @@
       };
 
 
-      appstleLoadScript("https://cdn.shopify.com/s/files/1/0634/7810/4289/t/3/assets/appstle-subscription.js?v=1660304777");
+      appstleLoadScript("https://cdn.shopify.com/s/files/1/0634/7810/4289/t/3/assets/appstle-subscription.js?v=1660828962");
 
 
       window.RS = Window.RS || {};
@@ -96,7 +96,7 @@
         "loyaltyPerkDescriptionText": "",
         "widgetTemplateHtml": ``,
         "bundle": {},
-        "labels": {},
+        "labels": null,
         "css": {
             "appstle_subscription_widget": {
                 "margin-top": "" ,
